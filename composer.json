@@ -10,7 +10,7 @@
             "email": "support@prodovo.co.uk"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "prodovo/module-base": "*"
     },
