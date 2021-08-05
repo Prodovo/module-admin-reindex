@@ -1,0 +1,25 @@
+{
+    "name": "prodovo/module-admin-reindex",
+    "description": "Reintroduction of the reindex action in the admin panel",
+    "type": "magento2-module",
+    "license": "GPL-3.0",
+    "version": "1.0.6",
+    "authors": [
+        {
+            "name": "Prodovo",
+            "email": "support@prodovo.co.uk"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "prodovo/module-base": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Prodovo\\AdminReindex\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
