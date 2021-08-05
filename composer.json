@@ -1,6 +1,6 @@
 {
     "name": "prodovo/module-admin-reindex",
-    "description": "Reintroduction of the reindex action in the admin panel",
+    "description": "Admin Indexer|Reintroduction of the reindex action in the admin panel",
     "type": "magento2-module",
     "license": "GPL-3.0",
     "version": "1.0.6",
