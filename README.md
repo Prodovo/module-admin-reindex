@@ -1,4 +1,4 @@
-# Magento 2 - Module Admin Reindex
+# Prodovo - Module Admin Reindex
 
     ``prodovo/module-admin-reindex``
 
