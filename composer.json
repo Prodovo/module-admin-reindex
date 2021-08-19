@@ -12,7 +12,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "prodovo/module-base": "*"
+        "prodovo/module-base": "^1.0.3"
     },
     "autoload": {
         "psr-4": {
